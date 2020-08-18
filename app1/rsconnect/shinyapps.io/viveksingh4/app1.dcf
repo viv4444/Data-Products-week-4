@@ -1,0 +1,12 @@
+name: app1
+title: app1
+username:
+account: viveksingh4
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2681776
+bundleId: 3530575
+url: https://viveksingh4.shinyapps.io/app1/
+when: 1597768957.98636
+asMultiple: FALSE
+asStatic: FALSE
